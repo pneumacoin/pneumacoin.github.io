@@ -10,6 +10,8 @@ This repository hosts the Stellar TOML file and official coin image for the PNEU
 - **Asset Code:** PNEUMA
 - **Issuer Account:** `GAR43MR2JNU2AZZPGJZ7TTB6PCPBQZLQ5Z5I3ETNXM5YH73KJZYX64GJ'
 - **Network:** Stellar Mainnet
+- **Conditions:** "Initial supply of 10,000. Supply may increase in the future based on ministry demand. Issuer account remains unlocked until full distribution is completed and finalized."
+
 
 ## Purpose
 
