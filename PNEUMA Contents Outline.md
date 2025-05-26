@@ -1,0 +1,35 @@
+# PNEUMA Documentation Contents-05.26.25
+
+- README.txt
+- [[Pneuma Whitepaper Outline-05.26.25]]
+- [[Pneuma Whitepaper-05.26.25]]
+	- Purpose
+	- Narrative
+	- Team
+	- Tokenomics
+	- Roadmap
+	- Metrics
+	- Technicals
+	- Use Cases
+- Whitepaper Accompanying Documentation
+	- Fiat Vs. Bitcoin Vs. PNEUMA
+	- Priority Area Outline
+		- Discipleship
+		- Evangelism
+		- Global and Human Populace Percentage Reach
+		- Token Release
+			- Token Release Purpose and Phase Outline
+			- Token Release Metric outline for each Phase. 
+	- Project Investment Distribution Plan
+	- Money Pools Outline
+		- Liquidity Pool
+		- Onboarding Sponsorship Pool
+		- Zambian Ministry Distribution Pool
+	- Outline for Vessel App
+		- Crypto Wallet
+		- Access to Visualize all giving, tithing, and Ministry Movement.
+		- Social Interface for creating events and attending them in real life
+		- Easy tithing and gift giving
+		- Easy onboarding for those new to crypto (Recieve Pneuma with no upfront cost)
+	- Index
+		- Deflationary
