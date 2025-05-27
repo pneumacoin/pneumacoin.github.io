@@ -65,7 +65,7 @@ PNEUMA has been crafted with specific use cases that reflect its Kingdom-centere
 
 #### 1. **Funding Ministries and Missionaries Globally**
 
-Through the automated 1% tithe embedded into every transaction, funds are channeled into vetted Zambian-based ministries and potentially other international partners. This structure provides consistent and traceable support to those laboring in the field (Luke 10:7).
+10% of every Pneuma Coin ever created (14,400) will be distributed to Zambian-Based Ministries throughout its lifetime. The current goal is 200 coins distributed to 72 ministries as seen fit by leadership in Carrier Inspiration Ministries. This structure provides consistent and traceable support to those laboring in the field (Luke 10:7).
 
 > "The laborer deserves his wages." — _Luke 10:7_
 
@@ -280,7 +280,7 @@ The tokenomics of PNEUMA have been intentionally designed to support long-term s
 
 ### Transaction Tithe
 
-- **Automatic Deduction:** 1% of every transaction is redirected to support Zambian ministries
+- **Automatic Deduction:** 10% of total Pneuma Coin issuance is redirected to support Zambian ministries
     
 - **Reference:** 2 Corinthians 9:10–12 — sowing leads to multiplication and thanksgiving to God
     
@@ -449,7 +449,7 @@ PNEUMA operates on a streamlined and efficient blockchain architecture with futu
 
 - **Trustlines:** Required for users to hold or transact with PNEUMA
     
-- **Transaction Tithe:** 1% of every transaction automatically rerouted to a designated Zambian ministry account for manual distribution
+- **Issuance Tithe:** 10% of every Pneuma Coin ever created (14,400) will be distributed to Zambian-Based Ministries throughout its lifetime. The current goal is 200 coins distributed to 72 ministries as seen fit by leadership in Carrier Inspiration Ministries.
     
 - **Future Capability (Planned):**
     
