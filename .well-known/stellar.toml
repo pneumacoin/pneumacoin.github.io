@@ -16,6 +16,6 @@ status = "live"
 code = "CIMCO"
 issuer = "GARWXOINWTEWUU4JH3XCDGIDNAYXEILOOKSKZDVOUM6WRC4FO7XM3SKP"
 display_decimals = 7
-image = "https://pneumacoin.github.io/cimco/CIMCO-logo.png"
+image = "https://pneumacoin.github.io/cimco/cimco-logo.png"
 desc = "CIMCO is the market-facing token that pumps global value into PNEUMA for ministry through the VESSEL app."
 status = "live"
