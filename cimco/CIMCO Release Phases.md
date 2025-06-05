@@ -1,0 +1,15 @@
+| **Phase**                            | **Biblical Number(s)** | **Previous Total** | **New CIMCO Released** | **Total Supply After Phase** | **Spiritual Theme**                                     |
+| ------------------------------------ | ---------------------- | ------------------ | ---------------------- | ---------------------------- | ------------------------------------------------------- |
+| **1**: Initial Breath of CIMCO       | —                      | 0                  | 10,000,000 CIMCO       | 10,000,000 CIMCO             | The breath of life *(Genesis 2:7)*                      |
+| **2**: Unity of God                  | 1                      | 10,000,000         | 5,000,000 CIMCO        | 15,000,000 CIMCO             | Oneness of God *(Deut 6:4)*                             |
+| **3**: Witness & Divine Completeness | 2 + 3                  | 15,000,000         | 6,000,000 CIMCO        | 21,000,000 CIMCO             | Confirmation and completeness *(Deut 19:15, Luke 24:7)* |
+| **4**: Universality & Grace          | 4 + 5                  | 21,000,000         | 7,000,000 CIMCO        | 28,000,000 CIMCO             | Four corners & grace *(Rev 7:1, Eph 2:8)*               |
+| **5**: Redemption of Man             | 6                      | 28,000,000         | 8,000,000 CIMCO        | 36,000,000 CIMCO             | Man's need for redemption *(Gen 1:26)*                  |
+| **6**: Spiritual Perfection          | 7                      | 36,000,000         | 9,000,000 CIMCO        | 45,000,000 CIMCO             | Perfection & divine rest *(Gen 2:2)*                    |
+| **7**: New Beginnings                | 8                      | 45,000,000         | 10,000,000 CIMCO       | 55,000,000 CIMCO             | Recreation & remnant *(1 Peter 3:20)*                   |
+| **8**: Fruit of the Spirit           | 9                      | 55,000,000         | 11,000,000 CIMCO       | 66,000,000 CIMCO             | Maturity & spiritual fruit *(Gal 5:22–23)*              |
+| **9**: Law and Order                 | 10                     | 66,000,000         | 12,000,000 CIMCO       | 78,000,000 CIMCO             | Divine order & accountability *(Ex 20, Gen 18:32)*      |
+| **10**: Apostolic Government         | 12                     | 78,000,000         | 13,000,000 CIMCO       | 91,000,000 CIMCO             | Apostolic sending & authority *(Matt 10:2, Rev 21:14)*  |
+| **11**: Testing & Jubilee            | 40 + 50                | 91,000,000         | 14,000,000 CIMCO       | 105,000,000 CIMCO            | Refinement & restoration *(Lev 25:10, Matt 4:2)*        |
+| **12**: Nations & Global Mission     | 70 + 72                | 105,000,000        | 15,000,000 CIMCO       | 120,000,000 CIMCO            | Sending to the nations *(Luke 10:1, Gen 10)*            |
+| **13**: Kingdom Completion           | 144                    | 120,000,000        | 24,000,000 CIMCO       | 144,000,000 CIMCO            | Fullness & divine order *(Rev 14:1)*                    |
