@@ -1,13 +1,12 @@
 [DOCUMENTATION]
 ORG_NAME = "Carrier Inspiration Ministries"
 ORG_URL = "https://denim-firewall-da7.notion.site/Hello-I-m-Bryce-Nathanial-Carrier-1497a0361320802cbfdbe4db04f8deac"
-IRG_DESCRIPTION = "A faith-based mission working to strengthen the church connection between the USA and Zambia through PNEUMA, a Christian token of generosity and Gospel purpose."
+ORG_DESCRIPTION = "A faith-based mission working to strengthen the church connection between the USA and Zambia through PNEUMA, a Christian token of generosity and Gospel purpose."
 
 [[CURRENCIES]]
 code = "PNEUMA"
 issuer = "GAR43MR2JNU2AZZPGJZ7TTB6PCPBQZLQ5Z5I3ETNXM5YH73KJZYX64GJ" 
 display_decimals = 7
-name = "PNEUMA Coin"
 desc = "A Christian token designed to connect the Church in the USA and Zambia through generosity and decentralized giving."
 image = "https://pneumacoin.github.io/pneuma/pneuma-logo.png"
 status = "live"
