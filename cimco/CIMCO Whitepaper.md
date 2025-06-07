@@ -40,7 +40,7 @@ PNEUMA is the channel through which value flows. It does not generate money — 
 “Out of his heart will flow rivers of living water.” — John 7:38
 
 
-### 4. VESSEL = The Tank + Dispatcher
+### 4. VESSEL = The Tank + Dispatcher + Value Exchange Platform between CIMCO/PNEUMA
 
 VESSEL is the storage and command center. It is not just a container, but a smart dispatcher that receives spiritual activity from ministry workers.
 	•	When ministry is planned, logged, or completed, a signal is sent
