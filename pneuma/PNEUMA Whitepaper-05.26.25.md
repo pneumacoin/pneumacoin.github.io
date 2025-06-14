@@ -1,4 +1,7 @@
-# Pneuma Whitepaper-05.26.25
+# Pneuma Whitepaper-Edited-06.14.25
+[[Pneuma Whitepaper-05.26.25]]
+[[Pneuma Whitepaper Edited-06.14.25]]
+
 ## 1. Introduction
 
 ### Name Origin
@@ -40,13 +43,15 @@ PNEUMA is a deflationary cryptocurrency launched on the Stellar blockchain with 
 - **Faith-Rooted**: Designed to serve ministries, not markets. A portion of each transaction is redirected to vetted Zambian-based ministries.
     
 
-The project is birthed out of **collaborative partnership between the United States and Zambia**, linking two parts of the global Church to fulfill the call of the Great Commission:
+PNEUMA is part of the broader **Project Pneuma infrastructure**, which includes the Vessel App, CIMCO (a public utility coin), and the future SODE governance token. PNEUMA itself is **not available for public trading** and is exclusively reserved as a **reward for verified ministry activity** documented through the Vessel App.
+
+The project is birthed out of the desire of Carrier Inspiration Ministries to strengthen the relationship in the church between the **United States and Zambia**, linking two parts of the global Church to fulfill the call of the Great Commission:
 
 > "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit..." — _Matthew 28:19–20_
 
 This token does not simply represent financial value — it represents **a breath of Kingdom purpose**. Every transaction is a movement of the Spirit, a ripple of obedience, and a small echo of the breath that brings life.
 
---- 
+---
 ## 2. Purpose
 
 ### Mission Statement
@@ -55,33 +60,7 @@ PNEUMA empowers and is empowered by gospel movement through borderless, Spirit-l
 
 > "For the ministry of this service is not only supplying the needs of the saints but is also overflowing in many thanksgivings to God." — _2 Corinthians 9:12_
 
-The mission of PNEUMA is fundamentally spiritual: to breathe life into dormant or underfunded ministry work and extend the reach of the Church through a practical tool for Kingdom action.
-
----
-
-### Use Cases
-
-PNEUMA has been crafted with specific use cases that reflect its Kingdom-centered goals:
-
-#### 1. **Funding Ministries and Missionaries Globally**
-
-10% of every Pneuma Coin ever created (14,400) will be distributed to Zambian-Based Ministries throughout its lifetime. The current goal is 200 coins distributed to 72 ministries as seen fit by leadership in Carrier Inspiration Ministries. This structure provides consistent and traceable support to those laboring in the field (Luke 10:7).
-
-> "The laborer deserves his wages." — _Luke 10:7_
-
-#### 2. **Connecting Believers Worldwide**
-
-PNEUMA is not just a currency — it facilitates** relationship**. It allows believers from around the world to participate in the spiritual economy by giving, receiving, and investing in eternal things. The coin acts as a bridge between geographically distant brothers and sisters in Christ.
-
-> "All who believed were together and had all things in common..." — _Acts 2:44_
-
-#### 3. **Measurement Tool for Gospel Progress**
-
-The existence and utility of PNEUMA is inherently tied to the fulfillment of the Great Commission. In future phases, PNEUMA issuance will be tied to measurable milestones in gospel proclamation and discipleship. The coin becomes a living, breathing symbol of how far out into the world the Word has gone.
-
-> "...This gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come." — _Matthew 24:14_
-
----
+The mission of PNEUMA is fundamentally spiritual: to breathe life into dormant or underfunded ministry work and extend the reach of the Church through a practical tool for Kingdom action. It is a reserved tool used only in response to confirmed ministry engagement.
 
 ### Vision
 
@@ -96,149 +75,154 @@ The ultimate vision of PNEUMA is that:
 - Financial participation would be spiritually transformative, aligning believers’ wallets with their witness.
     
 
-In this vision, each unit of PNEUMA — down to its smallest fraction, the _Grain_ — is not a speculative asset, but a seed sown in faith.
+In this vision, each unit of PNEUMA — down to its smallest fraction 1/7th of a PNEUMA, the _Grain_ — is not a speculative asset, but a seed sown in faith.
 
 > "Whoever sows generously will also reap generously." — _2 Corinthians 9:6_
 
 ---
 ## 3. Use Cases
 
-PNEUMA has been designed for practical and mission-driven application within a gospel-centered framework. Its structure, cost-efficiency, and flexibility make it a strong tool for believers who want to contribute to the work of the Kingdom through accessible and transparent systems.
+PNEUMA is a mission-based reward token used exclusively within the **Project Pneuma infrastructure**. While not publicly tradable on the open market, PNEUMA is designed to be exchangeable with **CIMCO** through the **Vessel App**, which will function both as a wallet and a streamlined exchange interface.
 
-### Ministry & Mission Support
+The system includes:
 
-- **Gospel-Centered Projects:**
+- **The Vessel App** for logging ministry activity, holding tokens, and facilitating internal exchange.
     
-    - Funds can be sent directly to ministry accounts with traceable, on-chain records
-        
-    - Enables accountable, real-time support for missions, church plants, and evangelistic outreach
-        
-- **Transparent Giving:**
+- **CIMCO**, the market-facing coin that users can trade more broadly.
     
-    - Every transaction is recorded on-chain, viewable by anyone with access to a Stellar block explorer
-        
-    - Supports donor trust and organizational integrity in ministry-related financial activity
-        
+- **SODE**, a governance token given to ministry workers with no market value and a 2-year halflife (not yet released).
+    
 
-### Accessibility & Inclusivity
+These use cases describe how PNEUMA is practically applied by users, ministry workers, and organizations.
 
-- **No Minimum Requirement to Participate:**
-    
-    - With 7 decimal places and the ability to send a fraction of a token (as small as 0.0000001 PNEUMA, or a "Grain"), even those with minimal financial means can give, receive, or use the coin
-        
-- **Low Transaction Costs:**
-    
-    - Transfer fees are a fraction of a cent, making PNEUMA practical for daily or small-sum use — ideal for users in regions where transaction fees often limit access
-        
-- **Cross-Border Simplicity:**
-    
-    - PNEUMA can be sent anywhere in the world in seconds without needing a centralized intermediary
-        
-    - No complex paperwork, exchange intermediaries, or government approval required for participation
-        
+### 1. **Earn PNEUMA for Ministry Work**
 
-### Kingdom Investment
+Log discipleship, evangelism, or ministry activity in the Vessel App. After review, verified actions will earn PNEUMA tokens. This is the only way to receive PNEUMA.
 
-- **Ease of Sowing into the Kingdom:**
-    
-    - Transactions are intentional and mission-connected — not speculative by nature
-        
-    - Users can participate in the Great Commission by contributing to projects with immediate spiritual impact
-        
-- **Linked to Discipleship Metrics:**
-    
-    - Token release and utility are tied to measurable progress in discipleship and evangelism efforts
-        
-    - Supports a results-based ministry model where gospel work drives resource flow
-        
+### 2. **Regional Ministry Support**
 
-### Decentralized Yet Spirit-Guided
+10% of PNEUMA total supply as well as 10% of the CIMCO total supply is allocated to Zambian-based ministries. These are distributed manually by Carrier Inspiration Ministries to known and active partners.
 
-- **Faith-Aligned Financial Tool:**
-    
-    - Not just peer-to-peer, but Spirit-to-purpose; it is built around ministry impact, not just technical decentralization
-        
-    - Supports a system where trust is verified both on-chain and spiritually, through church-involved oversight
-        
+### 3. **Encouragement for Frontline Workers**
 
-### Real-World Readiness
+Each PNEUMA token given is a way of saying, “we see you.” It offers encouragement, recognition, and motivation to keep going.
 
-- **Offline-Compatible Scenarios (Future):**
-    
-    - With potential Vessel app development, Pneuma can be used in low-bandwidth regions and logged for later blockchain syncing
-        
-- **Smart Ministry Functions (Planned):**
-    
-    - Pneuma will be linked to ministry events within the Vessel App, with features like automatic disbursement to verified ministries or evangelistic projects
-        
-    - Enables field workers to be supported directly through event-based accountability
+### 4. **Future Participation in Governance (via SODE)**
+
+Ministry workers who receive PNEUMA consistently may be granted **SODE tokens** in the future. These allow participation in project governance but cannot be traded or sold.
+
+### 5. **Measure Gospel Progress**
+
+Each verified action logged in the Vessel App is recorded and tallied. As tokens are distributed, they also serve as a measure of real-world gospel progress.
+
+### 6. **Support Ministry Projects**
+
+Users can send PNEUMA to ministry partners directly using their Stellar wallet or through the Vessel App. Each transaction is trackable and transparent.
+
+### 7. **Low-Barrier Participation**
+
+There is no minimum to get involved. Even tiny amounts (a "Grain" of PNEUMA) can be sent. This makes participation easy, especially in lower-income areas.
+
+### 8. **Globally Accessible**
+
+Anyone can send or receive PNEUMA worldwide using a Stellar wallet like LOBSTR or directly within the Vessel App. There are no banks or paperwork required.
+
+### 9. **Designed for Spirit-Led Giving**
+
+Giving with PNEUMA isn’t automated or impulsive — it’s led by prayer, intent, and community. Each transaction is purposeful.
+
+### 10. **Planned Offline Functionality**
+
+As the Vessel App evolves, users will be able to log ministry work without internet and sync it later. This allows usage in remote regions.
+
+### 11. **Future Smart Features**
+
+PNEUMA will eventually be auto-connected to certain events in the Vessel App (e.g., training completed, outreach completed), which will allow automatic token rewards once verified.
 
 ---
+
 ## 4. Narrative
 
-This project really started with a relationship — one between Bryce Nathanial Carrier, the church in the U.S., and the church in Zambia. In 2024, Bryce felt like the Lord was calling him to Zambia. That leading came through his home church, The Vineyard, and it was supposed to be for a short visit. But as things unfolded, he ended up staying longer than planned. In fact, as of May 26, 2025, he’s still there.
+This project began with a simple act of obedience — one relationship that opened the door to many more. Bryce Nathanial Carrier, an American missionary, traveled to Zambia in 2024 through The Vineyard Church for what was meant to be a short-term mission. But as often happens when the Spirit leads, the plans changed. By May 2025, he was still there — living, learning, and listening.
 
-At first, it was simple — just listening to God and walking in what He put in front of him. But as time went on, Bryce began to run into challenges. The biggest one was access to efficient internal and international financial systems. It became increasingly difficult to move money between the United States and Zambia. Accounts became harder to use, transfers took too long or were blocked altogether, and the options that were available weren’t practical for everyday people — especially those in Zambia.
+The challenges he encountered weren’t just personal. As he tried to support local churches and ministries, he ran into a major hurdle: limited access to effective financial systems. Moving funds between the U.S. and Zambia was unreliable, expensive, and at times, impossible. This wasn’t just Bryce’s problem. It was the lived reality of many faithful, hardworking believers on the ground.
 
-The more he saw this happening, the more he realized it wasn’t just affecting him. It was affecting everyone around him. In a place where even access to electricity and internet can be inconsistent, the gap between those who are connected to the global economy and those who aren’t became painfully clear. And yet, in the middle of all that, there was no shortage of faith or desire to serve God. It became clear that something needed to be created to help bridge that gap — not just technologically, but spiritually.
+That realization birthed **Project Pneuma**. Not a startup. Not a crypto gimmick. A Spirit-led infrastructure designed to support ministry, empower local leaders, and provide a system where faithful action could be met with faithful provision.
 
-That’s where the vision for PNEUMA began. Not as a tech project, but as a response to a real need — a burden to see the Gospel move forward in tangible ways. The idea was to create something that would mirror biblical stewardship. Something that wasn’t focused on profit or hype, but instead on purpose: connecting resources with mission.
+PNEUMA is the cornerstone reward token in this infrastructure — not for buying and selling, but for doing the work of the Kingdom. It is earned through the **Vessel App** by logging real ministry work: preaching, discipling, serving. It is given as a response to action, not speculation.
+
+But Bryce knew this needed to go further. Some people need flexibility to participate in a digital economy. That’s where **CIMCO** comes in — the tradable, market-facing counterpart to PNEUMA. CIMCO allows for movement and exchange while preserving the spiritual purpose of PNEUMA.
+
+And to keep everything aligned with long-term purpose, there is **SODE** — a governance token for decision-making by those actively working in ministry. SODE ensures that those doing the work are also helping shape the direction.
 
 > "Now the full number of those who believed were of one heart and soul... they had everything in common." — _Acts 4:32–35_
 
-PNEUMA was built to help shift the financial mindset — away from speculation, and toward action rooted in the Holy Spirit. A way for believers to participate in giving, sending, and supporting gospel work that’s already happening, especially in places like Zambia.
+PNEUMA is not a tool for getting rich. It’s a tool for getting real work done. It enables transparency, encouragement, and mutual support for gospel workers across borders. Especially in places like Zambia, where the Church is vibrant, the faith is strong, and the infrastructure is thin.
 
-It’s also tied to a deeper image — that we are all vessels, carrying something greater than ourselves. The name "PNEUMA" comes from the Greek word for spirit, wind, or breath — and that’s what this is really about. Being vessels for the Spirit’s work, not just in theory, but in how we live and how we give.
+More than anything, this project is about **vessels** — ordinary people filled with the Spirit, carrying something greater than themselves. That’s where the name comes from: "PNEUMA," the Greek word for breath, spirit, or wind.
 
 > "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us." — _2 Corinthians 4:7_
 
-This coin — this project — is just a small part of that. It’s a tool, not the mission itself. But it’s a tool that can help real people do real ministry. And that’s why it was created the goal is that it would continue to do so unto the ends of the earth.
+This is not the mission itself. It’s just a tool. But it’s a tool that can help real people do real ministry. And that’s why it was created: so it can continue making a difference until the whole earth hears.
 
 ---
 ## 5. Team
 
-The development and execution of PNEUMA is currently being carried out by two individuals under the oversight of Carrier Inspiration Ministries.
+The development and execution of **Project Pneuma Infrastructure** — including PNEUMA, CIMCO, SODE, and the Vessel App — is currently being carried out by two individuals under the oversight of Carrier Inspiration Ministries.
 
 ### Primary Contributors
 
-- **Bryce Nathanial Carrier**
+#### **Bryce Nathanial Carrier**
+
+- Founder of Carrier Inspiration Ministries
     
-    - Founder of Carrier Inspiration Ministries
-        
-    - American citizen currently residing in Kitwe, Zambia
-        
-    - Arrived in Zambia through The Vineyard Church in 2024 for a short-term mission, extended based on calling and need
-        
-    - Developed the concept for PNEUMA in response to observed limitations in financial access between the U.S. and Zambia
-        
-    - Responsible for vision, structure, and deployment of the project
-        
-- **Sarah Carrier**
+- American citizen currently residing in Zambia
     
-    - Wife of Bryce Carrier
-        
-    - Zambian medical doctor
-        
-    - Involved in early discussions about the project
-        
-    - Provides ongoing spiritual and logistical support
-        
+- Arrived in Zambia through The Vineyard Church in 2024 for a short-term mission; extended stay based on clear spiritual calling and local needs
+    
+- Developed the concept for PNEUMA after encountering the limitations of existing financial systems while trying to support ministry across borders
+    
+- Oversees the vision, structure, and spiritual integration of all elements of Project Pneuma, including PNEUMA, CIMCO, SODE, and the Vessel App
+    
+
+#### **Sarah Carrier**
+
+- Wife of Bryce Carrier
+    
+- Zambian medical doctor and early sounding board for the PNEUMA project
+    
+- Provides spiritual counsel, cultural insight, and logistical support from within the Zambian context
+    
+- Active in Carrier Inspiration Ministries' day-to-day spiritual and operational efforts
+    
 
 ### Organizational Structure
 
-- **Carrier Inspiration Ministries** oversees the spiritual and missional direction of the project
+- At this time, until SODE can redirect all governance to ministry workers for leadership, **Carrier Inspiration Ministries** directs the spiritual, strategic, and missional implementation of the full Project Pneuma ecosystem.
     
-- No additional team members, developers, or advisors are currently involved. Currently open to discussion about this. Reach out at carrier.inspiration@gmail.com with interest.
+- The infrastructure includes:
+    
+    - **PNEUMA** — reward token for ministry logged in the Vessel App
+        
+    - **CIMCO** — tradable coin designed to build external value through favorable, voluntary exchange
+        
+    - **SODE** — non-transferable governance tokens given to frontline ministry workers (planned)
+        
+    - **Vessel App** — user-friendly ministry logging and wallet interface (in development)
+        
+- Currently, no additional team members, developers, or advisors are officially onboard. The team remains open to prayer-led conversations and inquiries. Email: carrier.inspiration@gmail.com
     
 
 ### Leadership Standards
 
-- The project adheres to the qualifications for leadership found in 1 Timothy 3, emphasizing integrity, stewardship, and accountability
+- The project is governed by biblical leadership principles, particularly the standards outlined in **1 Timothy 3**
+    
+- Emphasis is placed on spiritual maturity, sound doctrine, accountability, and faithful stewardship of both financial and ministry-related resources
 
 ---
-## 5. Tokenomics
+## 6. Tokenomics
 
-The tokenomics of PNEUMA have been intentionally designed to support long-term stability, spiritual alignment, and real-world ministry application.
+The tokenomics of PNEUMA have been intentionally designed to support long-term stability, spiritual alignment, and real-world ministry application within the larger **Project Pneuma Infrastructure**.
 
 ### Total Supply
 
@@ -251,7 +235,7 @@ The tokenomics of PNEUMA have been intentionally designed to support long-term s
 
 ### Circulation
 
-- **Initial Circulation:** 1,000 PNEUMA
+- **Initial Circulation:** 10,000 PNEUMA + 14,400 PNEUMA set aside for 72 Zambian-Based Ministries
     
 - **Current Status:** Tokens held in a distribution wallet for manual allocation during onboarding and early adoption
     
@@ -273,132 +257,173 @@ The tokenomics of PNEUMA have been intentionally designed to support long-term s
     
 - **No Inflation:** Additional tokens cannot be minted once the supply cap is reached
     
-- **Release Structure:** Coin distribution over time will be slow and tied to real-world, mission-driven events and participation
+- **Release Structure:** Coin distribution over time will be slow and tied to real-world, mission-driven events and participation divided over 13 phases. The Last phase indicating the the fulfillment of The Great Commission according to Scripture.  
+      
+>“And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come.”––_Matthew 24:14
     
-- **Underlying Logic:** Ministry effort serves as a form of "proof of work"
+>“And the gospel must first be proclaimed to all nations.”––*Mark 13:10*
     
 
-### Transaction Tithe
+Mark 13:10)
 
-- **Automatic Deduction:** 10% of total Pneuma Coin issuance is redirected to support Zambian ministries
+- **Underlying Logic:** Ministry effort serves as a form of "proof of work" through the **Vessel App**, which is the only authorized pathway to earn new PNEUMA tokens. This is mean to simulate staggered release overtime, and imitate Bitcoin's "Proof-of-Work" where the "work" is real-world gospel work in real-time. 
     
-- **Reference:** 2 Corinthians 9:10–12 — sowing leads to multiplication and thanksgiving to God
-    
-- **Distribution Control:** Controlled manually through the designated ministry wallet and disbursed to qualified ministry efforts in Zambia
+
+PNEUMA is not designed for public trading or market speculation. Instead, its internal value is realized when exchanged for **CIMCO**, the project’s market-facing token. CIMCO serves to bridge external demand and internal mission by offering liquidity and tradability to users, while keeping PNEUMA reserved strictly for ministry impact.
+
+Additionally, **SODE** tokens — future governance tokens with a 2-year halflife and market value, and programmed with an inability to be traded — will be granted to active ministry participants as the network grows. These tokens will decentralize decision-making authority and bring governance closer to those living out the Gospel in real time in alignment with Jesus teaching, "
+
+>“And he sat down and called the twelve. And he said to them, ‘If anyone would be first, he must be last of all and servant of all.’”––*Mark 9:35*
+
+>“The greatest among you shall be your servant.”––*Matthew 23:11*
+
+>“But whoever would be great among you must be your servant, and whoever would be first among you must be your slave, even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”––*Matthew 20:26-28*
+
+>“But not so with you. Rather, let the greatest among you become as the youngest, and the leader as one who serves. For who is the greater, one who reclines at table or one who serves? Is it not the one who reclines at table? But I am among you as the one who serves.”––*Luke 22:26-27*
 
 ---
-## 6. Roadmap
+## 7. Roadmap
 
-This roadmap outlines the current status, next steps, and long-term vision for the PNEUMA project.  
-**Token Dashboard on Stellar Expert:** 
+This roadmap outlines the current status, next steps, and long-term vision for the **PNEUMA** coin as part of the broader **Project Pneuma Infrastructure**.
+
+### Token Dashboard on Stellar Expert
 
 [Stellar Pneuma Token Dashboard](https://stellar.expert/explorer/public/asset/PNEUMA-GAR43MR2JNU2AZZPGJZ7TTB6PCPBQZLQ5Z5I3ETNXM5YH73KJZYX64GJ-2)
 
 ### Current Phase
 
-- **Token Creation:** Initial 10,000 PNEUMA tokens minted on the Stellar blockchain. (9900 currently. Unsure how that happened, but I'm sure there's a parable in there somewhere.)
+- **Token Creation:** Initial 144,000 PNEUMA tokens minted on the Stellar Blockchain. 10,000 being from distributed for distribution in phase 1 with 14,400 PNEUMA reserved for 72 Zambian-Based Ministries
     
-- **Distribution Structure:** 600 PNEUMA currently in circulation via manual distribution
+- **Distribution Structure:** Over 600 PNEUMA currently in circulation as of June 14, 2025
     
-- **Wallet Onboarding:** Focus on helping early users create trustlines and fund wallets for PNEUMA transactions using Freighter, Albedo, or LOBSTR, but eventually Vessel
+- **Ministry Onboarding:** 3 out of 72 Zambian-Based Ministries have been onboarded and received both PNEUMA and CIMCO allocations
+    
+- **Wallet Onboarding:** Focused on helping early users set up trustlines and fund wallets for PNEUMA transactions using LOBSTR. Future onboarding will be centralized through the Vessel App
+    
+- **Issuer Wallet:** Locked
     
 
 ### Future Development
 
-- **App Development:** Creation of an integrated platform called **Vessel**
+- **App Development:** Building the **Vessel App**, which will serve as a ministry logging platform and integrated wallet. It will allow users to:
     
-    - Will include onboarding tools, real-time tracking of gospel-linked events, and token transfer features
+    - Log gospel-driven activities
         
-- **Strategic Partnerships:** Establish working relationships with ministries, developers, and crypto infrastructure providers (e.g., MoneyGram via Stellar)
-    
-- **Support Documentation:** Development of two key documents:
-    
-    - Phase Release Document
+    - Receive PNEUMA rewards
         
-    - Gospel Metrics Tracking Framework
+    - Exchange PNEUMA for CIMCO within the app interface
+        
+    - Track personal and collective ministry milestones
+        
+    - Act as a social network to openly see ministry workers activity
+        
+    - Join in on live discipleship and evangelical ministry activities. 
+        
+- **Strategic Partnerships:**
+    
+    - Building relationships with gospel ministries, blockchain developers, and investors such as established missions organizations or crypto exchanges to streamline the CIMCO/PNEUMA 
+        
+- **Support Documentation:** Ongoing development of key technical and strategic documentation:
+    
+    - **Phase Release Document:** Detailed explanation of the 13-phase coin distribution model
+        
+    - **Gospel Metrics Tracking Framework:** A framework for tying token issuance to measurable discipleship and evangelism metrics
         
 
 ### Long-Term Vision
 
-- **Mission Alignment:** All future token releases will be connected to real-world discipleship and evangelism efforts
+- **Mission Alignment:** All token releases will remain tied to verified ministry activity recorded through the Vessel App
     
-- **Geographic Anchoring:** Progress tied to actual regions being reached with the gospel
+- **Geographic Anchoring:** Progress will be linked to the reach of the Gospel into specific regions
     
-- **Supply Completion:** Total token cap of 144,000 reflects symbolic fullness (Revelation 14:1)
-    
-- **Scriptural Foundation:**
-    
-    - "Go therefore and make disciples of all nations..." — _Matthew 28:19–20_
-        
-    - "This gospel of the kingdom will be proclaimed throughout the whole world..." — _Matthew 24:14_
-        
-
-The roadmap is designed to remain flexible while anchored in measurable Kingdom progress.  
-  
-Details surrounding 
-
-1. Areas of Analysis and Fundamental Coin issuance drivers
-    
-2. Distribution Phases
-    
-3. Metric Parameters that drive Phase completion
+- **Supply Completion:** The fixed supply of 144,000 PNEUMA will be distributed only as global gospel advancement milestones are fulfilled; the last stage milestones are meant to reflect the completion of The 
     
 
-can all be found in the supporting documentation, as they are currently works in progress, and they are extensive enough to need their own documentation in the 
-https://www.github.com/pneumacoin/pneumacoin.github.io repository. 
+> "Go therefore and make disciples of all nations..." — *Matthew 28:19–20*
 
---- 
-## 7. Governance
+> "And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come." — *Matthew 24:14*
+
+### Supporting Infrastructure
+
+This roadmap is embedded in the broader vision of **Project Pneuma**, which also includes:
+
+- **VESSEL:** A decentralized application and ministry engagement tool that acts as both a wallet and a logging platform. VESSEL enables users to log verified ministry actions, receive PNEUMA as a reward, exchange it for CIMCO, and participate in a ministry-based social, evangelistic and discipleship network in the real-world in real-time.
+    
+- **CIMCO:** Tradable token used to bridge the gap between internal ministry rewards and external financial value
+    
+- **SODE:** Governance tokens with no market value, granted to ministry workers and holders of PNEUMA, designed to decay over time to ensure ongoing participation
+    
+
+All project timelines, release schedules, and evaluation criteria will remain flexible and Spirit-led, while rooted in measurable, scripturally-aligned Kingdom progress.
+
+Further documentation will be maintained and regularly updated at: [https://www.github.com/pneumacoin/pneumacoin.github.io](https://www.github.com/pneumacoin/pneumacoin.github.io)
+
+---
+## 8. Governance
 
 PNEUMA is governed by a small team operating under clear spiritual and scriptural principles, with future plans to expand as the project grows.
 
 ### Team-Based Governance
 
-- **Current Governance Members:**
+**Current Governance Members:**
+
+- **Bryce Nathanial Carrier** – Project founder, oversees all strategy, implementation, and communication
     
-    - **Bryce Nathanial Carrier** – Project founder, oversees all strategy, implementation, and communication
-        
-    - **Sarah Carrier** – Spiritual support, local insight, and long-term planning in Zambia
-        
-- **Organizational Oversight:**
+- **Sarah Carrier** – Spiritual support, local insight, and long-term planning in Zambia
     
-    - Functioning under **Carrier Inspiration Ministries**
-        
+
+**Organizational Oversight:**
+
+- Functioning under **Carrier Inspiration Ministries**, providing the foundational spiritual and administrative framework for Project Pneuma and all its components
+    
 
 ### Spiritual Leadership Standards
 
-- **Leadership Qualifications:**
+**Leadership Qualifications:**
+
+- Governed by the standards in _Titus 1:6–9_, emphasizing integrity, sound doctrine, and a blameless reputation
     
-    - Governed by the standards in _Titus 1:6–9_, emphasizing integrity, sound doctrine, and a blameless reputation
-        
-    - Spiritual discernment and fruit of the Spirit (Galatians 5:22–23) expected of all decision-makers
-        
+- Spiritual discernment and fruit of the Spirit (_Galatians 5:22–23_) are expected of all decision-makers
+    
 
 ### Decision-Making and Proposals
 
-- **Church-Informed Input:**
+**Church-Informed Input:**
+
+- Future governance decisions may include structured proposals and feedback from local churches, ministry leaders, and verified Vessel App participants
     
-    - Future governance decisions may involve proposals and feedback from local churches and ministry partners
-        
-    - Method of submission and communication for proposals is still under development
-        
+- Method of submission and community interaction is under active development, to be rolled out alongside expanded Vessel functionality
+    
 
 ### Treasury Oversight
 
-- **Transparency Commitment:**
+**Transparency Commitment:**
+
+- All treasury transactions and ministry allocations will be tracked and publicly documented
     
-    - Treasury activity and ministry allocations will be tracked and published
-        
-    - Financial decisions guided by the principle in _Proverbs 3:9_: “Honor the LORD with your wealth and with the firstfruits of all your produce”
-        
+- Financial decisions guided by _Proverbs 3:9_: “Honor the LORD with your wealth and with the firstfruits of all your produce”
+    
 
 ### Advisory Board (Planned)
 
 - No advisory board currently exists
     
-- A form of governance that consists of multiple vested parties will be put in place. This aspect is currently under development. 
+- A future governance model may include multiple vested parties such as long-term ministry partners, developers, and high-level participants in the Vessel ecosystem
+    
 
-## 8. Technical Overview (Expanded)
+### Governance Token (Future)
+
+- **SODE Tokens:** Will be granted exclusively to verified ministry workers within the Vessel App
+    
+- **No Cap / No Market Value:** These are non-tradable governance tokens with a halflife of 2 years, ensuring continuous and active participation
+    
+- **Function:** SODE holders will help shape the future direction of the project, provide feedback on ministry metrics, and speak into the allocation of unreleased PNEUMA based on real-world activity
+    
+
+Governance is both decentralized and Spirit-led, grounded in Kingdom accountability and practical usability as the community grows.
+
+---
+## 9. Technical Overview (Expanded)
 
 PNEUMA operates on a streamlined and efficient blockchain architecture with future integration into a ministry-specific platform.
 
@@ -431,6 +456,8 @@ PNEUMA operates on a streamlined and efficient blockchain architecture with futu
     
     - Allows for precise transfers and micro-payments
         
+    - The smallest divisible unit of PNEUMA is called a "Grain," inspired by _Matthew 17:20_ — “If you have faith as small as a grain...”
+        
 
 ### Wallet Support
 
@@ -440,28 +467,26 @@ PNEUMA operates on a streamlined and efficient blockchain architecture with futu
         
     - Albedo
         
-    - LOBSTR
+    - **LOBSTR (Primary wallet being used for onboarding)**
         
-    - **Future Integration:** Vessel (custom app under development)
+    - **Vessel App (Under development):** Will eventually become the default wallet for PNEUMA usage and distribution
         
 
 ### Smart Features
 
 - **Trustlines:** Required for users to hold or transact with PNEUMA
     
-- **Issuance Tithe:** 10% of every Pneuma Coin ever created (14,400) will be distributed to Zambian-Based Ministries throughout its lifetime. The current goal is 200 coins distributed to 72 ministries as seen fit by leadership in Carrier Inspiration Ministries.
-    
 - **Future Capability (Planned):**
     
-    - Automatic Pneuma distribution linked to real-time ministry events logged within the Vessel App
+    - Automated distribution of both **PNEUMA** and **SODE** tokens based on logged ministry actions within the Vessel App
         
-    - Event-based disbursement tracking to support gospel accountability and transparency
-        
+    - Event-based disbursement tracking to ensure real-time gospel accountability and enable live cooperation between ministry workers across various locations
+    - Streamlined exchange in the Vessel App for easy liquidity pool funding, CIMCO/PNEUMA Exchange and real time ministry updates from ministry workers. 
+    
 
 PNEUMA is built with simplicity, gospel mission alignment, and scalability in mind, using trusted infrastructure to ensure accessibility and long-term utility.
 
 ---
-
 ## 10. Disclaimer
 
 The PNEUMA token is a faith-driven tool designed to serve spiritual and community-centered goals. It is important to clarify its intended scope and limitations.
@@ -469,35 +494,25 @@ The PNEUMA token is a faith-driven tool designed to serve spiritual and communit
 ### Purpose Clarification
 
 - **Not solely a financial Investment Vehicle:**
-    
-    - PNEUMA is not designed to generate personal profit or accumulate wealth
-        
-    - Its value lies in its role as a ministry support mechanism, not a speculative asset
-        
+  - PNEUMA is not designed to generate personal profit or accumulate wealth
+  - Its value lies in its role as a ministry support mechanism, not a speculative asset
+
 - **Not meant for Speculative Trading:**
-    
-    - The project discourages short-term trading behavior
-        
-    - PNEUMA is structured to promote stability and long-term engagement tied to mission outcomes
-        
+  - The project discourages short-term trading behavior
+  - PNEUMA is structured to promote stability and long-term engagement tied to mission outcomes
+
 - **No Financial Guarantees:**
-    
-    - There is no promise of return, increase in value, or financial benefit from holding or using PNEUMA
-        
+  - There is no promise of return, increase in value, or financial benefit from holding or using PNEUMA
 
 ### Intended Use
 
 - **Spiritual:**
-    
-    - Created to enable and be driven by gospel-spreading giving and financial discipleship
-        
-- **Communal:**
-    
-    - Designed for mutual support and relationship within the Body of Christ
-        
-- **Social:**
-    
-    - Intended to improve access to opportunity, resources, and mission tools in underserved areas
-        
+  - Created to enable and be driven by gospel-spreading giving and financial discipleship
 
-PNEUMA exists to support Kingdom goals, not financial speculation. It is a tool for giving, not gaining except Gods will done on earth as it is in heaven.
+- **Communal:**
+  - Designed for mutual support and relationship within the Body of Christ
+
+- **Social:**
+  - Intended to improve access to opportunity, resources, and mission tools in underserved areas
+
+PNEUMA exists to support Kingdom goals, not financial speculation. It is a tool for giving, not gaining except God's will done on earth as it is in heaven.
