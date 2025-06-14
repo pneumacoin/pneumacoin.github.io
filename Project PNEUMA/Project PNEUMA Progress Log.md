@@ -11,3 +11,5 @@ May,2025-Onboarded and Sent 200 Pneuma to #1 Zambian Based Ministry
 Onboarded #1Zambian Ministry
 ## June 6, 2025
 Released CIMCO on the open market. 40 trades in the first 24 hours with 0.39% increase in value.
+## June 14, 2025
+Re-wrote PNEUMA and CIMCO Whitepaper to include the Project PNEUMA Infrastructure and Pump Theory.
